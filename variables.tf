@@ -1,0 +1,4 @@
+variable "security_group" { default = "sg-0ef25d984b08f0a94" }
+
+variable "key_name" { default = "terraform_test_key" }
+variable "public_key" { default = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs/bKzaIM8j33mtpnXjZuRY7FtAqN2gyDNJxJgom1UzX2+oFIFxyYhXRQ+1pLAlXNKbXKZAdKElBShRZA5mBpHZZ6w4EFU8XCoEMDFy2/JEDHG/XMS4ynwT5fisng5PwOpZOaACZ1pk42pHfHqhRfQ4MaKvrxHEM7QRJrsEMHDB0328h1vL8zmiB3p4VsZR1eJxOurI9wuRv62raBdBK1+5KYGnIlk9jppxbgniq8erp2pURX1kGwSCvQVu6UbdcoHRcaTZppLgREoFbFdfNm6ygQSDGNKIs+p4QqI5v3TWeuAOInXZQNtx+IUsfo6I6UkePzP2QhTCelKUBSGb4gcQIDAQAB" }
